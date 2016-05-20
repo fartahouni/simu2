@@ -1,0 +1,10 @@
+arrival_mean = 2
+cancel_mean = 18
+exit_mean = 9
+exit_rate = 0.2
+sell_time = 01:00
+show_time = 03:00
+agent_num = 2
+cancel_duration = 2
+sell_duration = 1
+tickets_count = 200
